@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I am energetic (at least that's what I think)**
 
+- ✉️ Connect with me at **aryan20569@proton.me**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/linearcloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="linearcloud" height="30" width="40" /></a>
