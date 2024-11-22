@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Better Fixed-Heliactyl](https://github.com/Aryan20569/Better-Fixed-Heliactyl)
+- 🔭 I’m currently working on [Hostfusion](https://hostfusion.co/)
 
 - 🌱 I’m currently learning **NodesJS,Tail Wind, ReactJS**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am energetic (at least that's what I think)**
 
-- ✉️ Connect with me at **aryan20569@proton.me**
+- ✉️ Connect with me at **aryan20569@proton.me [no longer active]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
