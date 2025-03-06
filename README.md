@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aryan Patel [15]</h1>
+<h3 align="center">A passionate frontend developer and System Administrator from India</h3>
 
-- 🔭 I’m currently working on [Hostfusion](https://hostfusion.co/)
+- 🔭 I’m currently working on [Hostfusion](https://hostfusion.co/), [Servoid](https://serviod.pro/)
 
 - 🌱 I’m currently learning **NodesJS,Tail Wind, ReactJS**
 
