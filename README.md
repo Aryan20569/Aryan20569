@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am energetic (at least that's what I think)**
 
-- ✉️ Connect with me at **aryan20569@proton.me [no longer active]**
+- ✉️ Connect with me at **contact@aryan-is.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
